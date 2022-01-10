@@ -42,9 +42,9 @@ database ='riskmit.db'
 # =============================================================
 root = Tk()
 #root.protocol("WM_DELETE_WINDOW", close_window)
-root.title("InvestInU Reporting")
+root.title("Questrade Reporting")
 #root.geometry("500x600")
-root.iconbitmap('assets/favicon.ico')
+#root.iconbitmap('assets/favicon.ico')
 #root.columnconfigure(0, weight=1)
 #root.columnconfigure(1, weight=3)
 
